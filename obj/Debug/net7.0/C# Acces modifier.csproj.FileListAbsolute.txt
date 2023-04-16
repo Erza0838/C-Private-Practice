@@ -1,0 +1,15 @@
+D:\C#_Task\C# Acces modifier\bin\Debug\net7.0\C# Acces modifier.exe
+D:\C#_Task\C# Acces modifier\bin\Debug\net7.0\C# Acces modifier.deps.json
+D:\C#_Task\C# Acces modifier\bin\Debug\net7.0\C# Acces modifier.runtimeconfig.json
+D:\C#_Task\C# Acces modifier\bin\Debug\net7.0\C# Acces modifier.dll
+D:\C#_Task\C# Acces modifier\bin\Debug\net7.0\C# Acces modifier.pdb
+D:\C#_Task\C# Acces modifier\obj\Debug\net7.0\C# Acces modifier.csproj.AssemblyReference.cache
+D:\C#_Task\C# Acces modifier\obj\Debug\net7.0\C# Acces modifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Task\C# Acces modifier\obj\Debug\net7.0\C# Acces modifier.AssemblyInfoInputs.cache
+D:\C#_Task\C# Acces modifier\obj\Debug\net7.0\C# Acces modifier.AssemblyInfo.cs
+D:\C#_Task\C# Acces modifier\obj\Debug\net7.0\C# Acces modifier.csproj.CoreCompileInputs.cache
+D:\C#_Task\C# Acces modifier\obj\Debug\net7.0\C# Acces modifier.dll
+D:\C#_Task\C# Acces modifier\obj\Debug\net7.0\refint\C# Acces modifier.dll
+D:\C#_Task\C# Acces modifier\obj\Debug\net7.0\C# Acces modifier.pdb
+D:\C#_Task\C# Acces modifier\obj\Debug\net7.0\C# Acces modifier.genruntimeconfig.cache
+D:\C#_Task\C# Acces modifier\obj\Debug\net7.0\ref\C# Acces modifier.dll
